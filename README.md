@@ -3,6 +3,7 @@
 A modern, responsive, and interactive **Scientific Calculator Web Application** built using **React.js**.  
 This project is designed to perform both **basic arithmetic operations** and **advanced scientific calculations** with a clean, intuitive, and user-friendly interface.
 
+![Scientific Calculator Screenshot](./public/calculator.png)
 
 ## Live Demo
 
