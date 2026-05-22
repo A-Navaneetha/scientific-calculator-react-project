@@ -48,10 +48,10 @@ This project is built using modern frontend technologies:
 
 scientific-calculator-react-project/
 │
-├── public/             
+├── public         
 │   └── calculator.png
 │
-├── src/                # Main source code
+├── src                # Main source code
 │   ├── App.js          # Root component (calculator UI logic)
 │   ├── index.js        # React entry point
 │   └── App.css         # Styling (layout, buttons, responsiveness)
