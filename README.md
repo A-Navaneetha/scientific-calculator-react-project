@@ -44,19 +44,20 @@ This project is built using modern frontend technologies:
 -  CSS3 – Styling, layout, and responsiveness
 -  HTML5 – Structure and semantics
 
-
-## 📁 Project Structure
+## Project Structure
 
 scientific-calculator-react-project/
 │
-├── public         
-│   └── calculator.png
-├── src                # Main source code
-│   ├── App.js          # Root component (calculator UI logic)
-│   ├── index.js        # React entry point
-│   └── App.css         # Styling (layout, buttons, responsiveness)
-├── package.json       # Project dependencies and scripts
-└── README.md          # Project documentation
+├── public
+│ └── calculator.png
+│
+├── src # Main source code
+│ ├── App.js # Root component (calculator UI logic)
+│ ├── index.js # React entry point
+│ └── App.css # Styling (layout, buttons, responsiveness)
+│
+├── package.json # Project dependencies and scripts
+└── README.md # Project documentation
 
 ## Deployment
 
