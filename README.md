@@ -49,3 +49,24 @@ This project is built using modern frontend technologies:
 
 ```md
 ![Scientific Calculator Screenshot](calculator-ui.png)
+
+## 🎯 Future Enhancements
+
+-  Dark Mode / Light Mode Toggle for better user experience  
+-  Full Keyboard Input Support for faster calculations  
+-  Calculation History Panel to track previous results  
+-  Memory Functions (M+, M-, MR, MC) like real calculators  
+-  Better Mobile Optimization for all screen sizes  
+-  Advanced Error Handling for invalid expressions  
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **Netlify**, a fast and free hosting platform for modern web applications.
+
+### 🔹 Deployment Steps
+
+1. Build the React application:
+   ```bash
+   npm run build
