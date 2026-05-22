@@ -50,12 +50,10 @@ scientific-calculator-react-project/
 │
 ├── public         
 │   └── calculator.png
-│
 ├── src                # Main source code
 │   ├── App.js          # Root component (calculator UI logic)
 │   ├── index.js        # React entry point
 │   └── App.css         # Styling (layout, buttons, responsiveness)
-│
 ├── package.json       # Project dependencies and scripts
 └── README.md          # Project documentation
 
@@ -69,12 +67,12 @@ npm run build
 
 ## Future Enhancements
 
-- 🌙 Dark Mode / Light Mode Toggle for better user experience  
-- ⌨️ Full Keyboard Input Support for faster calculations  
-- 📜 Calculation History Panel to track previous results  
-- 💾 Memory Functions (M+, M-, MR, MC) like real calculators  
-- 📱 Better Mobile Optimization for all screen sizes  
-- ⚠️ Advanced Error Handling for invalid expressions
+-  Dark Mode / Light Mode Toggle for better user experience  
+-  Full Keyboard Input Support for faster calculations  
+-  Calculation History Panel to track previous results  
+-  Memory Functions (M+, M-, MR, MC) like real calculators  
+-  Better Mobile Optimization for all screen sizes  
+-  Advanced Error Handling for invalid expressions
 
 
 
