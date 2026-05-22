@@ -7,7 +7,7 @@ This project is designed to perform both **basic arithmetic operations** and **a
 
 ## Live Demo
 
-[🟢 View Live Demo](https://your-netlify-link.netlify.app/)**
+[🟢 View Live Demo](https://calculatorreactsite.netlify.app/)
 
 ---
 
