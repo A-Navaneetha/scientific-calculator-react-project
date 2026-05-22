@@ -44,7 +44,8 @@ This project is built using modern frontend technologies:
 -  CSS3 – Styling, layout, and responsiveness
 -  HTML5 – Structure and semantics
 
-## Project Structure
+
+## 📁 Project Structure
 
 scientific-calculator-react-project/
 │
