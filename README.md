@@ -3,6 +3,7 @@
 A modern, responsive, and interactive **Scientific Calculator Web Application** built using **React.js**.  
 This project is designed to perform both **basic arithmetic operations** and **advanced scientific calculations** with a clean, intuitive, and user-friendly interface.
 
+
 ## Live Demo
 
 [🟢 View Live Demo](https://calculatorreactsite.netlify.app/)
@@ -43,12 +44,6 @@ This project is built using modern frontend technologies:
 -  CSS3 – Styling, layout, and responsiveness
 -  HTML5 – Structure and semantics
 
-##  Project Preview
-
-> Add your calculator screenshot below
-
-```md
-![Scientific Calculator Screenshot](calculator-ui.png)
 
 ## 🎯 Future Enhancements
 
@@ -59,8 +54,7 @@ This project is built using modern frontend technologies:
 -  Better Mobile Optimization for all screen sizes  
 -  Advanced Error Handling for invalid expressions  
 
----
-
+-
 ## 🚀 Deployment
 
 This project is deployed using **Netlify**, a fast and free hosting platform for modern web applications.
