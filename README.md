@@ -9,7 +9,6 @@ This project is designed to perform both **basic arithmetic operations** and **a
 
  [🟢 View Live Demo (https://calculatorreactsite.netlify.app/) ] 
 
-
 ##  Features
 
 ### Basic Arithmetic Operations
@@ -45,16 +44,20 @@ This project is built using modern frontend technologies:
 -  CSS3 – Styling, layout, and responsiveness
 -  HTML5 – Structure and semantics
 
+## Project Structure
 
-##  Future Enhancements
-
--  Dark Mode / Light Mode Toggle for better user experience  
--  Full Keyboard Input Support for faster calculations  
--  Calculation History Panel to track previous results  
--  Memory Functions (M+, M-, MR, MC) like real calculators  
--  Better Mobile Optimization for all screen sizes  
--  Advanced Error Handling for invalid expressions  
-
+scientific-calculator-react-project/
+│
+├── public/             
+│   └── calculator.png
+│
+├── src/                # Main source code
+│   ├── App.js          # Root component (calculator UI logic)
+│   ├── index.js        # React entry point
+│   └── App.css         # Styling (layout, buttons, responsiveness)
+│
+├── package.json       # Project dependencies and scripts
+└── README.md          # Project documentation
 
 ## Deployment
 
@@ -62,5 +65,19 @@ This project is deployed using **Netlify**, a fast and free hosting platform for
 
 The production build of the React application was generated using:
 
-```bash
 npm run build
+
+## Future Enhancements
+
+- 🌙 Dark Mode / Light Mode Toggle for better user experience  
+- ⌨️ Full Keyboard Input Support for faster calculations  
+- 📜 Calculation History Panel to track previous results  
+- 💾 Memory Functions (M+, M-, MR, MC) like real calculators  
+- 📱 Better Mobile Optimization for all screen sizes  
+- ⚠️ Advanced Error Handling for invalid expressions
+
+
+
+    
+
+
