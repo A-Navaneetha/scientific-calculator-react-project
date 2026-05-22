@@ -45,7 +45,7 @@ This project is built using modern frontend technologies:
 -  HTML5 – Structure and semantics
 
 
-## 🎯 Future Enhancements
+##  Future Enhancements
 
 -  Dark Mode / Light Mode Toggle for better user experience  
 -  Full Keyboard Input Support for faster calculations  
@@ -54,13 +54,12 @@ This project is built using modern frontend technologies:
 -  Better Mobile Optimization for all screen sizes  
 -  Advanced Error Handling for invalid expressions  
 
--
-## 🚀 Deployment
+
+## Deployment
 
 This project is deployed using **Netlify**, a fast and free hosting platform for modern web applications.
 
-### 🔹 Deployment Steps
+The production build of the React application was generated using:
 
-1. Build the React application:
-   ```bash
-   npm run build
+```bash
+npm run build
