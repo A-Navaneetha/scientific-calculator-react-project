@@ -1,19 +1,19 @@
-# 🔢 Scientific Calculator (React.js)
+# Scientific Calculator (React.js)
 
 A modern, responsive, and interactive **Scientific Calculator Web Application** built using **React.js**.  
 This project is designed to perform both **basic arithmetic operations** and **advanced scientific calculations** with a clean, intuitive, and user-friendly interface.
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
-🔗 **[🟢 View Live Demo](https://your-netlify-link.netlify.app/)**
+[🟢 View Live Demo](https://your-netlify-link.netlify.app/)**
 
 ---
 
-## 📌 Features
+##  Features
 
-### 🧮 Basic Arithmetic Operations
+### Basic Arithmetic Operations
 - Addition (+)
 - Subtraction (−)
 - Multiplication (×)
@@ -21,7 +21,7 @@ This project is designed to perform both **basic arithmetic operations** and **a
 
 ---
 
-### 📐 Scientific Functions
+### Scientific Functions
 - Sine (sin)
 - Cosine (cos)
 - Tangent (tan)
@@ -33,7 +33,7 @@ This project is designed to perform both **basic arithmetic operations** and **a
 
 ---
 
-### 🎨 UI/UX Features
+###  UI/UX Features
 - Fully responsive layout (mobile, tablet, desktop)
 - Clean and modern calculator interface
 - Real-time input and instant result display
@@ -42,18 +42,18 @@ This project is designed to perform both **basic arithmetic operations** and **a
 
 ---
 
-## ⚛️ Tech Stack
+## Tech Stack
 
 This project is built using modern frontend technologies:
 
-- ⚛️ React.js – Component-based UI development
-- 📜 JavaScript (ES6+) – Logic and calculations
-- 🎨 CSS3 – Styling, layout, and responsiveness
-- 🌐 HTML5 – Structure and semantics
+- React.js – Component-based UI development
+- JavaScript (ES6+) – Logic and calculations
+-  CSS3 – Styling, layout, and responsiveness
+-  HTML5 – Structure and semantics
 
 ---
 
-## 📷 Project Preview
+##  Project Preview
 
 > Add your calculator screenshot below
 
